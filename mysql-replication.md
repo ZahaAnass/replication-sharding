@@ -138,10 +138,3 @@ Check status:
 ```sql
 SHOW SLAVE STATUS\G
 ```
-
-If you want, I can generate:
-
-* **full replication SQL script**
-* **docker-compose for full cluster**
-* **MongoDB sharding cluster with Docker**
-* **slides for your presentation**
